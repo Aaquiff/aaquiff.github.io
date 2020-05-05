@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I have a Bsc Software Engineering from Curtin university, Australia where I was awarded for the best performance and 1st Class Honours Bachelor's degree from Sri Lanka Institute of Information Technology. Awarded the IFS scholarship, I was able to work at IFS as a software developer for more than 3 years while continuing studies through which I was able to gain valuable experience in developing frameworks for enterprise applications. Through leading projects, I have also gained valuable experience in planning and leading software development teams.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am keen in learning new technologies, sharing my knowledge and especially solving problems.
