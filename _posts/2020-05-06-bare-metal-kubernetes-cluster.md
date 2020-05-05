@@ -1,4 +1,9 @@
-# Bare Metal Kubernetes Cluster
+---
+layout: post
+title:  "Bare Metal Kubernetes Cluster"
+date:   2020-05-06 00:50:05 +0530
+categories: kubrnetes
+---
 
 Kubernetes is an open source project initiated by google to ease the pain of deploying, managing and scaling containerized applications. There exists many flavors of kubernetes clouds such as
 
@@ -17,7 +22,7 @@ In this single node setup one machine will be the master while the other a node.
 
 If you are planning to access the cluster from a different machine (most probable scenario) you would need kubectl installed in that machine. kubectl is a kubernetes client application written in GO that could talk to the kubernetes API that we are going to setup in the master node.
 
-## Setting up the master
+# Setting up the master
 
 SSH into the master machine and use the following commands to install the required tools.
 
@@ -44,7 +49,7 @@ After the command has run, you will find a command in the output that can be use
 
 In addition, you need to setup a CIDR for maintaining the internal network. You could find a few options if you skim through the kubernetes documentation. We chose to go with flannel which could be installed using the command given below.
 
-## Setting up the worker node(s)
+# Setting up the worker node(s)
 
 This is fairly straight forward. Install the dependencies as before using the following commands and use the join command we got earlier.
 
@@ -71,7 +76,7 @@ If you’ve missed it or you want to join a new node to the cluster, use the fol
 sudo kubeadm token create --print-join-command
 ```
 
-## Give it a go!
+# Give it a go!
 
 With the kubernetes configuration we copied earlier from the master, we are now able to connect to the cluster and administrate it using the kubernetes API. To test the nodes in the cluster, use the following command.
 
