@@ -9,26 +9,26 @@ The application could be found at this GitHub [repository](https://github.com/Aa
 When you navigate to the application homepage, you will be greeted with the following page. As you can see there is an option to login with your google account.
 
 
-![start.png](start.png "start.png")
+![start.png](./start.png "start.png")
 
 Clicking on the link will redirect you to the authorization page at google where you would authorize the application Demo-OAuth to access your google drive. If you have multiple google accounts linked in your browser you might get a prompt like below to choose the account you want to use.
 
-![choose-account.png](choose-account.png "choose-account.png")
+![choose-account.png](./choose-account.png "choose-account.png")
 
 Once you choose an account you will be prompted with a screen to authorize Demo-OAuth application to access your google drive account.
 
-![request-access-for-app.png](request-access-for-app.png "request-access-for-app.png")
+![request-access-for-app.png](./request-access-for-app.png "request-access-for-app.png")
 
-![email-confirmation1.png](email-confirmation1.png "email-confirmation1.png")
+![email-confirmation1.png](./email-confirmation1.png "email-confirmation1.png")
 
 After you have carefully read about what this authorization will allow the app (or not), click allow to authorize the app. After doing so you will receive an email that notifies you that the app has been authorized. Your browser will also be redirected back to the application home page and you will be logged in with your google account. Your username will appear along with an option to log out.
 
-![logged-in-as-aaquif.png](logged-in-as-aaquif.png "logged-in-as-aaquif.png")
+![logged-in-as-aaquif.png](./logged-in-as-aaquif.png "logged-in-as-aaquif.png")
 
 
 Click on the choose file button and select the file you want to upload to google drive.
 
-![choose-file.png](choose-file.png "choose-file.png")
+![choose-file.png](./choose-file.png "choose-file.png")
 
 The file chosen will be uploaded to Google Drive.
 
@@ -37,7 +37,7 @@ The file chosen will be uploaded to Google Drive.
 The following sequence diagram sums up all the flows that happen during the authorization and file upload steps.
 
 
-![authorization-flow.png](authorization-flow.png "authorization-flow.png")
+![authorization-flow.png](./authorization-flow.png "authorization-flow.png")
 
 
 User requests the index.html bu navigating to the root  of the application. He is presented with the UI and chooses to login with google. The web browser then posts to the /oauth2 endpoint which redirects the user to the google authorization flow appending the following information.
