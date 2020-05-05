@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cross-Site Request Forgery"
-date:   2018-10-10 00:50:05 +0530
+date:   2018-10-10
 categories: csrf
 ---
 

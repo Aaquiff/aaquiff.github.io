@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Drive File Up-loader using OAuth2"
-date:   2018-10-05 00:50:05 +0530
+date:   2018-10-05
 categories: GoogleDrive OAuth2
 ---
 

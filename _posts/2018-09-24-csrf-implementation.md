@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CSRF Implementation"
-date:   2018-09-24 00:50:05 +0530
+date:   2018-09-24
 categories: csrf
 ---
 
