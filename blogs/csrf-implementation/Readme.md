@@ -10,15 +10,15 @@ prevention mechanisms.
 
 This application allows the administrator to add users. The steps to add a user are given below with screenshots.
 
-1. Login To the application using the admin credentials “aaralk/aaralk”.  
+1.Login To the application using the admin credentials “aaralk/aaralk”.  
 
 ![capture.png](capture.png "capture.png")
 
-2. Click on the “Add User” option, you will be presented with the form to add a user.
+2.Click on the “Add User” option, you will be presented with the form to add a user.
 
 ![capture1.png](capture1.png "capture1.png")
 
-3. Enter the username and password for the new user to be added, if you are logged into the system as the administrator, the user will be added.
+3.Enter the username and password for the new user to be added, if you are logged into the system as the administrator, the user will be added.
 
 ![capture2.png](capture2.png "capture2.png")
 
