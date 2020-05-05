@@ -2,7 +2,7 @@
 layout: post
 title:  "Bare Metal Kubernetes Cluster"
 date:   2019-02-01
-categories: kubrnetes
+categories: kubernetes
 ---
 
 Kubernetes is an open source project initiated by google to ease the pain of deploying, managing and scaling containerized applications. There exists many flavors of kubernetes clouds such as
