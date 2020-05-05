@@ -11,7 +11,7 @@ This blog explains two demo applications that were built to demonstrate two stra
 - https://github.com/Aaquiff/csrf-synchronizer-token-pattern-example
 - https://github.com/Aaquiff/csrf-double-submit-cookie-example
 
-You can also refer to my [article](../cross-site-request-forgery/Readme.md) where I have discussed about CSRF and it’s 
+You can also refer to my [article](../../../2018/10/10/cross-site-request-forgery.html) where I have discussed about CSRF and it’s 
 prevention mechanisms.
 
 This application allows the administrator to add users. The steps to add a user are given below with screenshots.
