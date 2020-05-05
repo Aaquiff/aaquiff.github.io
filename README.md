@@ -1,7 +1,4 @@
-# Aaquiff Ahnaff Rauf
-
-
-## Blogs
+# Blogs
 
 [Bare Metal Kubernetes Cluster](blogs/bare-metal-kubernetes-cluster/Readme.md)
 
