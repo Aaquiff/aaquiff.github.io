@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bare Metal Kubernetes Cluster"
-date:   2020-05-06 00:50:05 +0530
+date:   2019-02-01 00:50:05 +0530
 categories: kubrnetes
 ---
 
