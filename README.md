@@ -3,6 +3,8 @@
 
 ## Blogs
 
-[Bare Metal Kubernetes Cluster](blogs/Bare Metal Kubernetes Cluster/Bare Metal Kubernetes Cluster.md)
+[Bare Metal Kubernetes Cluster](blogs/bare-mteal-kubernetes-cluster/Readme.md)
 
-[Google Drive File Up-loader using OAuth2](blogs/Google Drive File Up-loader using OAuth2/Google Drive File Up-loader using OAuth2.md)
+[Google Drive File Up-loader using OAuth2](blogs/google-drive-file-uploader-using-oauth2/Readme.md)
+
+[Cross-Site Request Forgery](blogs/cross-site-request-forgery/Readme.md)
